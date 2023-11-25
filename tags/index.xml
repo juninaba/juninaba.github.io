@@ -10,6 +10,25 @@
       <link>https://juninaba.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://juninaba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Nov 2023 01:22:40 +0900</lastBuildDate><atom:link href="https://juninaba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>https://juninaba.github.io/tags/android/</link>
+      <pubDate>Sat, 25 Nov 2023 01:22:40 +0900</pubDate>
+      
+      <guid>https://juninaba.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>https://juninaba.github.io/tags/flutter/</link>
+      <pubDate>Sat, 25 Nov 2023 01:22:40 +0900</pubDate>
+      
+      <guid>https://juninaba.github.io/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

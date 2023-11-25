@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Log</title>
-    <link>https://juninaba.github.io/</link>
-    <description>Recent content on Log</description>
+    <title>Android on Log</title>
+    <link>https://juninaba.github.io/tags/android/</link>
+    <description>Recent content in Android on Log</description>
     <image>
       <title>Log</title>
       <url>https://juninaba.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Nov 2023 01:22:40 +0900</lastBuildDate><atom:link href="https://juninaba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Nov 2023 01:22:40 +0900</lastBuildDate><atom:link href="https://juninaba.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementing Google Authentication in Flutter (Android): A Guide to SHA Registration for Release Apps</title>
       <link>https://juninaba.github.io/posts/2023-11-25-flutter-android-google-sign-in/</link>
@@ -21,7 +21,6 @@
       <description>In my development environment, Google authentication was successful, but I encountered authentication failures when releasing the app through Google Play.
 For Android apps released via Google Play, it&amp;rsquo;s necessary to use the SHA-1 certificate fingerprint set in the Google Play Console, not the one obtained from Android Studio, and add it to the Firebase console.</description>
     </item>
-    
     
   </channel>
 </rss>
