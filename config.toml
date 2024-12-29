@@ -20,7 +20,7 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 theme = "toggle"
-# favicon = "/icon/favicon.png"
+favicon = "./content/profile.jpg"
 socials = [
   # Configure socials here
   { name = "twitter", url = "https://x.com/JunInaba1", icon = "twitter" },
