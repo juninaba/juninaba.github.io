@@ -3,11 +3,12 @@ title= "About me"
 template = "homepage.html"
 +++
 
-<div style="display: flex; gap: 1rem;">
+<div style="display: flex; gap: 0.75rem;">
   <img 
     src="./profile.jpg"
     alt="sample" 
     width="100px" 
+    height="100px"
   />
   <div>
 
