@@ -7,7 +7,7 @@ template = "homepage.html"
   <img 
     src="./profile.jpg"
     alt="sample" 
-    width="200px" 
+    width="100px" 
   />
   <div>
 
@@ -24,3 +24,5 @@ template = "homepage.html"
 - [https://tech.explaza.jp/entry/2024/06/03/170900](https://tech.explaza.jp/entry/2024/06/03/170900)
 - [https://tech.explaza.jp/entry/2024/04/22/171128](https://tech.explaza.jp/entry/2024/04/22/171128)
 - [https://tech.hajimari.inc/entry/2020/07/30/162626](https://tech.hajimari.inc/entry/2020/07/30/162626)
+
+
