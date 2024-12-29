@@ -3,23 +3,19 @@ title= "About me"
 template = "homepage.html"
 +++
 
-<div style="display: flex; gap: 0.75rem;">
-  <img 
-    src="./profile.jpg"
-    alt="sample" 
-    width="100px" 
-    height="100px"
-  />
-  <div>
+<img 
+  src="./profile.jpg"
+  alt="sample" 
+  width="100px" 
+  height="100px"
+/>
+<div>
 
-  <p style="font-weight: 700; padding-left: 1.25rem;">Junichi Inaba</p>
-
-  - Currently: Software engineer, [Explaza](https://explaza.jp/)
-  - Previously:
-      - Freelance Engineer
-      - Software engineer, [Hajimari](https://www.hajimari.inc/)
-  </div> 
-</div>
+**Junichi Inaba**
+- Currently: Software engineer, [Explaza](https://explaza.jp/)
+- Previously:
+    - Freelance Engineer
+    - Software engineer, [Hajimari](https://www.hajimari.inc/)
 
 # Tech Blog Posts 
 - [https://tech.explaza.jp/entry/2024/06/03/170900](https://tech.explaza.jp/entry/2024/06/03/170900)
