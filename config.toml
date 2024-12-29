@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://juninaba.github.io"
 
+title = "Junichi Inaba's Blog"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -17,10 +19,14 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-theme = "auto"
+theme = "toggle"
+# favicon = "/icon/favicon.png"
 socials = [
   # Configure socials here
+  { name = "twitter", url = "https://x.com/JunInaba1", icon = "twitter" },
+  { name = "github", url = "https://github.com/juninaba", icon = "github" },
 ]
 menu = [
   # Configure menu bar here
+  { name = "/posts", url = "/posts", weight = 1 },
 ]
