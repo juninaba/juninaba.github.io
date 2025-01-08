@@ -4,7 +4,7 @@ template = "homepage.html"
 +++
 
 <img 
-  src="./profile.jpg"
+  src="./my-notion-face.png"
   alt="sample" 
   width="100px" 
   height="100px"
