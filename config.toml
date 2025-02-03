@@ -9,8 +9,6 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-# theme = "apollo"
-# theme = "no-style-please"
 taxonomies = [{ name = "tags" }]
 
 [markdown]
@@ -20,14 +18,3 @@ highlight_code = true
 
 [extra]
 logo = "images/my-notion-face.png"
-
-# theme = "toggle"
-# favicon = "./content/profile.jpg"
-# socials = [
-#   { name = "twitter", url = "https://x.com/JunInaba1", icon = "twitter" },
-#   { name = "github", url = "https://github.com/juninaba", icon = "github" },
-# ]
-# menu = [
-#   { name = "/posts", url = "/posts", weight = 1 },
-#   { name = "/tags", url = "/tags", weight = 2 },
-# ]
