@@ -9,6 +9,7 @@
   - Software Engineer, [Hajimari](https://www.hajimari.inc/)
 
 Posts
+  - [[GitHub Agentic Workflows] AGENTS.mdを定期的にメンテする](https://zenn.dev/explaza/articles/eec6bb340c1240)
   - [Claude Code / Cursor / Codex：私が愛用するカスタムコマンド集](https://zenn.dev/explaza/articles/d8fab0a7354f8a)
   - [CursorのカスタムスラッシュコマンドとComposer 1で実現する高速・高精度なコミットメッセージ自動生成](https://zenn.dev/explaza/articles/b1c88776f81ce6)
   - [Pull Requestのタイトルと説明文をCodex Github Actionで簡単に自動入力する方法](https://zenn.dev/explaza/articles/669c43b1c8ed53)
