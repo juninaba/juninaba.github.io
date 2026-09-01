@@ -5,7 +5,7 @@
 
 - Currently: Looking for next opportunity
 - Previously:
-  - Applied AI Engineer, [Explaza](https://explaza.jp/) (until Aug 2026)
+  - Applied AI Engineer, [Explaza](https://explaza.jp/)
   - Freelance Engineer
   - Software Engineer, [Hajimari](https://www.hajimari.inc/)
 
