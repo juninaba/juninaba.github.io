@@ -3,7 +3,7 @@
 
 {{ image(src="./my-notion-face.png", alt="profile" width="100px") }}
 
-- Currently: Looking for next opportunity
+- Currently: ???
 - Previously:
   - Applied AI Engineer, [Explaza](https://explaza.jp/)
   - Freelance Engineer
