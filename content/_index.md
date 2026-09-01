@@ -3,8 +3,9 @@
 
 {{ image(src="./my-notion-face.png", alt="profile" width="100px") }}
 
-- Currently: Software Engineer / LLM Application Engineer, [Explaza](https://explaza.jp/)
+- Currently: ???
 - Previously:
+  - Applied AI Engineer, [Explaza](https://explaza.jp/)
   - Freelance Engineer
   - Software Engineer, [Hajimari](https://www.hajimari.inc/)
 
