@@ -1,7 +1,7 @@
 +++
 +++
 
-{{ image(src="./my-notion-face.png", alt="profile" width="100px") }}
+{{ image(src="./my-notion-face.png", alt="profile", width="100px") }}
 
 - Currently: ???
 - Previously:
